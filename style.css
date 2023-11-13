@@ -1,0 +1,36 @@
+.container{
+    max-width: 1028px;
+    margin: 20% 0 0 45%;
+    padding: 0 -15px;
+}
+
+body {
+    background-image: url('./assets/to-do-list-in-Chinese-style-for-the-backround.png');
+    background-size: 100%;
+}
+
+h2{
+    font-size: 66px;
+}
+
+input{
+    height: 30px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+button{
+    height: 32px;
+    width: 60px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: red;
+}
+
+ul{
+    font-size: 25px;
+    list-style-type: none;
+    margin-left: -20%;
+}
+
+
